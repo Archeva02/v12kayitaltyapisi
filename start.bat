@@ -1,4 +1,4 @@
-echo off
+echo on
 title V12 Kayit Altyapisi
 color c
 cls
